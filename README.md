@@ -68,19 +68,17 @@ This project is a 3D interactive scene built using OpenGL, GLM, GLEW, and SDL2, 
 
 ## Technologies Used
 
-- OpenGL (Core Profile)
+- OpenGL
 - GLM for math
 - GLEW for extension loading
 - SDL2 for context and input
 - ImGui for GUI controls
 
-## Build Requirements
+## Screenshots
 
-- C++17
-- SDL2
-- GLEW
-- GLM
-- ImGui
+![Main Scene](https://github.com/MuhammadMalahim/casino-cg/blob/main/screenshots/scene_basic.jpg)
+![Cards](https://github.com/MuhammadMalahim/casino-cg/blob/main/screenshots/scene_cards.jpg)
+![Cards Texture](https://github.com/MuhammadMalahim/casino-cg/blob/main/screenshots/cards_shading.jpg)
 
 ## Notes
 
